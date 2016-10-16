@@ -398,26 +398,3 @@ function shufflePlayingArea(playingArea){
 function createTimer() {
   return document.createElement("span");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
